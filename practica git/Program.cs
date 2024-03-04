@@ -7,6 +7,7 @@
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Modificación para volver a una versión anterior");
             Console.WriteLine("modificación en rama");
+            Console.WriteLine("modificacion en rama por estudiante B");
         }
     }
 }
