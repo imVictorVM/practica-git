@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("practica git")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db7b1b6485a12b41dd2a13094fab987079787148")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+06377f46ab3efc60497b75bb87db97562ec22085")]
 [assembly: System.Reflection.AssemblyProductAttribute("practica git")]
 [assembly: System.Reflection.AssemblyTitleAttribute("practica git")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
